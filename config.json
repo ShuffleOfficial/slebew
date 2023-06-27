@@ -1,0 +1,30 @@
+{
+    "ownerNumber": ["6285823360959@s.whatsapp.net"],
+    "ownerName": "Mr.Blaxe",
+    "instagram" : "https://youtube.com/@-_IMFINE",
+    "gcwa" : "https://youtube.com/@-_IMFINE",
+    "botName": "Bot Whatsapp",
+    "footer": "A Team DVloper",
+    "sessionName": "FallZx",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./nganu.jpg",
+    "BotKey": "pakek apikey lu dek",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": true,
+    "autoblok212": false,
+    "autoread": true,
+    "gamewaktu": 30,
+    "limitCount": 90,
+    "gcount": {
+        "prem": 1000,
+        "user": 999
+    }
+}
